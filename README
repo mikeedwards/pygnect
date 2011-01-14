@@ -1,0 +1,9 @@
+Video demo:
+http://onearmedman.com/research/pythonfreenect
+
+This is a quick hack I made in an afternoon to play with the Kinect.  To get it to run, you'll need the Python modules for
+
+OpenCV
+Freenect (comes with libfreenect in the "bindings" section)
+Pyglet (an excellent OpenGL based graphics package)
+PIL
